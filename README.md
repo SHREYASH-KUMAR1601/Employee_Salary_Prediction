@@ -1,10 +1,9 @@
 # Employee Salary Prediction Web App
 
-![Salary Prediction App Screenshot](https://i.imgur.com/7gYQZ9E.png)
 
 ## 📖 Overview
 
-This project is a machine learning-powered web application that predicts whether an individual's annual income is likely to be more or less than $50,000. The prediction is based on socio-economic data from the 1994 US Census database.
+This project is a machine learning-powered web application that predicts whether an individual's annual income is likely to be more or less than $50,000.
 
 The application features a user-friendly interface built with Streamlit, where users can input an individual's details and receive an instant prediction from the best-performing machine learning model.
 
@@ -44,7 +43,6 @@ The application follows a standard machine learning pipeline:
 
 -   **Backend & ML:** Python, Scikit-learn, Pandas, NumPy
 -   **Frontend:** Streamlit
--   **Dataset:** UCI Adult Income Dataset
 
 ---
 
@@ -55,5 +53,5 @@ To run this project on your local machine, please follow these steps:
 **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/your-username/employee-salary-prediction.git](https://github.com/your-username/employee-salary-prediction.git)
+https://github.com/SHREYASH-KUMAR1601/Employee_Salary_Prediction.git
 cd employee-salary-prediction
