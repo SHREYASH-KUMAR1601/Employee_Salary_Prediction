@@ -18,7 +18,7 @@ warnings.filterwarnings('ignore')
 @st.cache_data
 def train_model():
     try:
-        df = pd.read_csv("C:\\Users\\ASUS\\Downloads\\adult 3.csv")
+        df = pd.read_csv("adult.csv")
     except FileNotFoundError:
         st.error("Error: File not found. Please ensure the dataset file is in the correct directory.")
         return None, None, None, None
